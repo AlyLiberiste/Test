@@ -1,2 +1,2 @@
 # Test
-just a test repository
+C'est juste un teste de GitHub
